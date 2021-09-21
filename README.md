@@ -19,4 +19,4 @@ Projeto feito com CSS3, HTML5 e JavaScript.
 Camila C. R. Santos
 </p>
 <br><br>
-<img src="https://img.shields.io/github/stars/Cameasy/calculadora-js"><img src="https://img.shields.io/github/watchers/Cameasy/calculadora-js">
+<img src="https://img.shields.io/github/stars/Cameasy/calculatorstyle-js"><img src="https://img.shields.io/github/watchers/Cameasy/calculatorstyle-js">
